@@ -4,7 +4,7 @@ Bear 7.x-2.x incorporates some new integrations for assets and embedded media. I
 
 ##Introduction to Bear
 
-Bear is a Drupal 7 Starter Kit, not a full Drupal 7 distribution. It was originally created as a bootstrapped starting point for Zivtech Drupal development projects, with helpful pre-configured modules and mission critical patches. There should be no need for you to ever update the Bear project itself once it has been installed. Individual contributed modules, libraries, and the Bear Skin theme can be updated as you normally would any other contributed projects after install is complete. You should also feel free to update or disable any included features as needed. Out of the box Bear is ready to start site building and development to create new features as needed to suit your project.
+Bear is a Drupal 7 Starter Kit, not a full Drupal 7 distribution. It was originally created as a bootstrapped starting point for Zivtech Drupal development projects, with helpful pre-configured modules and mission critical patches. There should be no need for you to ever update the Bear project itself once it has been installed. Individual contributed modules, libraries, and the Bear Skin theme can be updated as you normally would any other contributed projects after install is complete. You should also feel free to update or disable any included features as needed. Out of the box Bear is ready to start site building and development to create new features as needed to suit your project..
 
 ##Bear Installation
 
